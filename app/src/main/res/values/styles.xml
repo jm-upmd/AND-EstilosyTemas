@@ -8,9 +8,7 @@
         <item name="android:textStyle">italic</item>
     </style>
 
-    <style name="ActionBar.Overlay" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
-        <item name="android:background">@drawable/actionbar_translucent</item>
-    </style>
+
 
     <!--Estilos personalizados para los componentes del formulario-->
     <style name="Header" parent="@android:style/Widget.Holo.Light.TextView">
