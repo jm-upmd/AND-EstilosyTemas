@@ -4,6 +4,7 @@
         <!-- Estilos para Edit Texts-->
         <item name="android:editTextStyle">@style/EditTextStyle</item>
         <item name="android:textStyle">italic</item>
+
     </style>
 
 
