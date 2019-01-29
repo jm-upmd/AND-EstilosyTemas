@@ -3,8 +3,6 @@
     <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
         <!-- Estilos para Edit Texts-->
         <item name="android:editTextStyle">@style/EditTextStyle</item>
-        <!--Estilos de ventana-->
-        <item name="android:windowFullscreen">false</item>
         <item name="android:textStyle">italic</item>
     </style>
 
